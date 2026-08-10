@@ -1,0 +1,12 @@
+{
+    "matugenEnabled": true,
+    "reservedShell": false,
+    "setWallpaper": true,
+    "wallFgLayer": true,
+    "wallSrc": "/home/alice/Pictures/Wallpapers/lets_all_love_lain_office_monitors.jpg",
+    "wallpaperDir": "/home/alice/Pictures/Wallpapers",
+    "wallpapersByOutput": {
+        "HDMI-A-1": "/home/alice/Pictures/Wallpapers/cyber_girl_glitch_crt_screens.jpg",
+        "eDP-1": "/home/alice/Pictures/Wallpapers/serial_experiments_lain_wired_cables.png"
+    }
+}
